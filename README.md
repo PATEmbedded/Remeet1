@@ -25,7 +25,7 @@
 
 ## My Role
 
-**Senior Embedded Systems (IoT) Engineer**, Novaday Co. · 10/2022 – 07/2026
+**Senior Embedded Systems (IoT) Engineer**, [Novaday Co.](https://novaday.ir/) · 10/2022 – 07/2026
 
 I was responsible for Remeet 1 across hardware and software: from the PCB and device design, through the embedded firmware and Linux platform, to the meeting-management application layer.
 
@@ -170,10 +170,11 @@ flowchart TB
 
 ## Note on Confidentiality
 
-This repository is a **portfolio description** of my work on Remeet 1. I **cannot publish the schematics or the source code** because of copyright. Both belong to **Novaday Co. (شرکت نوادی)**, the company that owns the Remeet product, and all rights are reserved.
+This repository is a **portfolio description** of my work on Remeet 1. I **cannot publish the schematics or the source code** because of copyright. Both belong to **[Novaday Co. (شرکت نوادی)](https://novaday.ir/)**, the company that owns the Remeet product, and all rights are reserved.
 
 The public materials in this repository (README, brochure, and images) are the only parts shared here. To order a device or request a consultation, use the official product page:
 
+- Company: <https://novaday.ir/>
 - Order and product preview: <https://remeet.ir/pages/preview.html>
 - Product documentation: <https://docs.remeet.ir>
 
