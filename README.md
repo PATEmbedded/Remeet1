@@ -94,10 +94,6 @@ Custom PCB designed in-house for the device's electronics. The table below lists
   <img src="docs/images/remeet-1-dimensions.jpg" alt="Remeet 1 dimensions: 26.5 x 16 cm" width="620">
 </p>
 
-<p align="center">
-  <img src="docs/images/remeet-1-installed-door.jpg" alt="Remeet 1 installed beside a glass door" width="420">
-</p>
-
 ---
 
 ## Device Software Architecture
