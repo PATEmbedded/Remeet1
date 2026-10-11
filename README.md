@@ -18,6 +18,7 @@
 - [Device Software Architecture](#device-software-architecture)
 - [Deployment](#deployment)
 - [Repository Contents](#repository-contents)
+- [Note on Confidentiality](#note-on-confidentiality)
 - [Contact](#contact)
 
 ---
@@ -164,6 +165,17 @@ flowchart TB
         ├── remeet-1-installed-door.jpg
         └── remeet-mobile-app.jpg
 ```
+
+---
+
+## Note on Confidentiality
+
+This repository is a **portfolio description** of my work on Remeet 1. I **cannot publish the schematics or the source code** because of copyright. Both belong to **Novaday Co. (شرکت نوادی)**, the company that owns the Remeet product, and all rights are reserved.
+
+The public materials in this repository (README, brochure, and images) are the only parts shared here. To order a device or request a consultation, use the official product page:
+
+- Order and product preview: <https://remeet.ir/pages/preview.html>
+- Product documentation: <https://docs.remeet.ir>
 
 ---
 
