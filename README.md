@@ -7,7 +7,7 @@
 
 > **Remeet 1** is an IoT meeting-room panel mounted beside doors. It shows room status and schedules, unlocks the door, and is managed from mobile and web apps.
 >
-> As **Senior Embedded Systems (IoT) Engineer** at [Novaday Co.](https://novaday.ir/) (10/2022 – 07/2026), I owned the device end to end: PCB design, embedded firmware, the Embedded Linux platform, and the device-driver layer that connects application code to the hardware.
+> As **Senior Embedded Systems (IoT) Engineer** at [Novaday Co.](https://novaday.ir/) (10/2022 – 07/2026), I was the engineer responsible for the device's hardware and software: PCB design, embedded firmware, the Embedded Linux platform, and the device-driver layer that connects application code to the hardware. Remeet 1 is a Novaday product.
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Senior Embedded Systems (IoT) Engineer**, [Novaday Co.](https://novaday.ir/) · 10/2022 – 07/2026
 
-I owned Remeet 1 across hardware and software: from PCB and device design, through embedded firmware and the Linux platform, to the meeting-management application layer.
+I worked on Remeet 1 as the hardware and software engineer, from PCB and device design, through embedded firmware and the Linux platform, to the meeting-management application layer. The product itself belongs to Novaday Co.
 
 | Area | What I did |
 |------|------------|
