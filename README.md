@@ -5,7 +5,9 @@
   <img src="docs/images/Remeet-1-Right-Black.png" alt="Remeet 1 meeting room display" width="720">
 </p>
 
-> **Remeet 1** is a wall- and door-mounted meeting room device that shows room status and schedule, unlocks the door, and is managed from mobile and web apps. As **Senior Embedded Systems (IoT) Engineer** at Novaday Co. (10/2022 – 07/2026), I owned the device from PCB design through embedded software, and I built the device-driver abstraction layer that connects application code to the Linux hardware stack.
+> **Remeet 1** is an IoT meeting-room panel mounted beside doors. It shows room status and schedules, unlocks the door, and is managed from mobile and web apps.
+>
+> As **Senior Embedded Systems (IoT) Engineer** at [Novaday Co.](https://novaday.ir/) (10/2022 – 07/2026), I owned the device end to end: PCB design, embedded firmware, the Embedded Linux platform, and the device-driver layer that connects application code to the hardware.
 
 ---
 
@@ -27,7 +29,7 @@
 
 **Senior Embedded Systems (IoT) Engineer**, [Novaday Co.](https://novaday.ir/) · 10/2022 – 07/2026
 
-I was responsible for Remeet 1 across hardware and software: from the PCB and device design, through the embedded firmware and Linux platform, to the meeting-management application layer.
+I owned Remeet 1 across hardware and software: from PCB and device design, through embedded firmware and the Linux platform, to the meeting-management application layer.
 
 | Area | What I did |
 |------|------------|
@@ -36,7 +38,15 @@ I was responsible for Remeet 1 across hardware and software: from the PCB and de
 | **Device-driver layer** | Created a **C++ / C / Bash device-driver abstraction layer** that bridges application developers with low-level Linux services, **Device Tree**, and **U-Boot** |
 | **Software** | Wrote the device software in C/C++ on embedded Linux, covering the platform layer, boot configuration, and application features |
 
-**Skills:** `PCB design` · `Embedded Linux` · `Device Tree` · `U-Boot` · `C++ / C` · `Bash` · `Device-driver abstraction` · `IoT connectivity` · `Meeting-management platform`
+**Skills**
+
+| Category | Expertise |
+|----------|-----------|
+| **Hardware** | PCB design · Hardware design · STM32 · ESP32 · ARM Cortex |
+| **Embedded Linux** | Embedded Linux · Device Tree · U-Boot · Device drivers · Driver abstraction layers |
+| **Firmware** | Embedded C / C++ · FreeRTOS / RTOS · Bare-metal firmware |
+| **IoT** | IoT connectivity · Cloud and on-premise deployment · Edge AI · Computer Vision |
+| **Tooling** | Bash · Build and system scripting |
 
 ---
 
@@ -116,7 +126,7 @@ flowchart TB
 
     subgraph DAL["Device-driver abstraction layer (C++ / C / Bash)"]
         API["Stable device interface"]
-        DRV["Driver wrappers<br/>display, door lock, network, peripherals"]
+        DRV["Driver wrappers<br/>for device peripherals"]
     end
 
     subgraph OS["Embedded Linux"]
@@ -136,7 +146,7 @@ flowchart TB
 |-------|------------|------|
 | Application | C++ | Meeting management and device features |
 | Abstraction layer | C++, C | Hides low-level device access behind one interface |
-| Scripting | Bash | Build and system-level helper scripts |
+| Tooling | Bash | Build and system-level helper scripts |
 | Linux | Device Tree, kernel drivers | Hardware description and device access |
 | Boot | U-Boot | Bootloader and boot-time device setup |
 
@@ -183,6 +193,8 @@ The public materials in this repository (README, brochure, and images) are the o
 ## Contact
 
 **Pourya Afshintabar**, Senior Embedded Systems (IoT) Engineer · Vienna, Austria
+
+Embedded C/C++ · Embedded Linux · RTOS and bare-metal (ARM Cortex-M) · IoT · Hardware design
 
 - GitHub: [PATEmbedded](https://github.com/PATEmbedded)
 - LinkedIn: [pourya-afshintabar](https://www.linkedin.com/in/pourya-afshintabar/)
