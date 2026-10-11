@@ -11,20 +11,6 @@
 
 ---
 
-## Table of Contents
-
-- [My Role](#my-role)
-- [Product at a Glance](#product-at-a-glance)
-- [Key Features](#key-features)
-- [Hardware](#hardware)
-- [Device Software Architecture](#device-software-architecture)
-- [Deployment](#deployment)
-- [Repository Contents](#repository-contents)
-- [Note on Confidentiality](#note-on-confidentiality)
-- [Contact](#contact)
-
----
-
 ## My Role
 
 **Senior Embedded Systems (IoT) Engineer**, [Novaday Co.](https://novaday.ir/) · 10/2022 – 07/2026
@@ -149,32 +135,6 @@ flowchart TB
 | Tooling | Bash | Build and system-level helper scripts |
 | Linux | Device Tree, kernel drivers | Hardware description and device access |
 | Boot | U-Boot | Bootloader and boot-time device setup |
-
----
-
-## Deployment
-
-- **Installation:** The product team handles installation, delivery, and training.
-- **Network:** Wi-Fi or LAN connection to the internet (cloud) or to the organization's own network (on-premise).
-- **Server:** Cloud, or a dedicated server inside the organization.
-- **Support:** Online, phone, and ticketing.
-
----
-
-## Repository Contents
-
-```text
-.
-├── README.md
-├── LICENSE
-└── docs/
-    ├── Remeet-Product-Brochure.pdf   # Product brochure
-    └── images/
-        ├── Remeet-1-Right-Black.png  # Product render
-        ├── remeet-1-dimensions.jpg   # Dimensions
-        ├── remeet-1-installed-door.jpg
-        └── remeet-mobile-app.jpg
-```
 
 ---
 
