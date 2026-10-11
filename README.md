@@ -5,7 +5,7 @@
   <img src="docs/images/Remeet-1-Right-Black.png" alt="Remeet 1 meeting room display" width="720">
 </p>
 
-> I designed Remeet 1, a wall- and door-mounted meeting room device that shows room status and schedule, unlocks the door, and is managed from mobile and web apps. I customized the Remeet1 platform for meeting management and built the device-driver abstraction layer that connects application code to the Linux hardware stack.
+> **Remeet 1** is a wall- and door-mounted meeting room device that shows room status and schedule, unlocks the door, and is managed from mobile and web apps. As **Senior Embedded Systems (IoT) Engineer** at Novaday Co. (10/2022 – 07/2026), I owned the device from PCB design through embedded software, and I built the device-driver abstraction layer that connects application code to the Linux hardware stack.
 
 ---
 
@@ -24,11 +24,18 @@
 
 ## My Role
 
+**Senior Embedded Systems (IoT) Engineer**, Novaday Co. · 10/2022 – 07/2026
+
+I was responsible for Remeet 1 across hardware and software: from the PCB and device design, through the embedded firmware and Linux platform, to the meeting-management application layer.
+
 | Area | What I did |
 |------|------------|
-| **Product design** | Designed the Remeet 1 device: industrial form factor, tilt-adjustable 10.1-inch display, and concealed wiring |
+| **Hardware** | Designed the Remeet 1 PCB and the device's electronics for its 10.1-inch display, wall/door mounting, and concealed-wiring enclosure |
 | **Platform customization** | Customized the Remeet1 product platform for meeting management: room booking, schedules, access control, and room information on the device |
-| **Device software** | Created a **C++ / C / Bash device-driver abstraction layer** that bridges application developers with low-level Linux services, **Device Tree**, and **U-Boot** |
+| **Device-driver layer** | Created a **C++ / C / Bash device-driver abstraction layer** that bridges application developers with low-level Linux services, **Device Tree**, and **U-Boot** |
+| **Software** | Wrote the device software in C/C++ on embedded Linux, covering the platform layer, boot configuration, and application features |
+
+**Skills:** `PCB design` · `Embedded Linux` · `Device Tree` · `U-Boot` · `C++ / C` · `Bash` · `Device-driver abstraction` · `IoT connectivity` · `Meeting-management platform`
 
 ---
 
@@ -71,6 +78,8 @@ Remeet 1 turns any meeting room into a managed space. The device sits beside the
 ---
 
 ## Hardware
+
+Custom PCB designed in-house for the device's electronics. The table below lists the physical and product-level specifications.
 
 | Parameter | Value |
 |-----------|-------|
@@ -160,7 +169,7 @@ flowchart TB
 
 ## Contact
 
-**Pourya Afshintabar**, Embedded Systems Engineer · Vienna, Austria
+**Pourya Afshintabar**, Senior Embedded Systems (IoT) Engineer · Vienna, Austria
 
 - GitHub: [PATEmbedded](https://github.com/PATEmbedded)
 - LinkedIn: [pourya-afshintabar](https://www.linkedin.com/in/pourya-afshintabar/)
