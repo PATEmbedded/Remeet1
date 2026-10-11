@@ -28,10 +28,10 @@ I was the hands-on engineer behind Remeet 1, responsible for the hardware design
 
 | Category | Expertise |
 |----------|-----------|
-| **Hardware** | PCB design · Hardware design · STM32 · ESP32 · ARM Cortex |
+| **Hardware** | PCB design · Hardware design · ARM Cortex |
 | **Embedded Linux** | Embedded Linux · Device Tree · U-Boot · Device drivers · Driver abstraction layers |
-| **Firmware** | Embedded C / C++ · FreeRTOS / RTOS · Bare-metal firmware |
-| **IoT** | IoT connectivity · Cloud and on-premise deployment · Edge AI · Computer Vision |
+| **Firmware** | Embedded C / C++ · Bare-metal firmware |
+| **IoT** | IoT connectivity · Cloud and on-premise deployment |
 | **Tooling** | Bash · Build and system scripting |
 
 ---
@@ -150,7 +150,8 @@ The public materials in this repository (README, brochure, and images) are the o
 
 **Pourya Afshintabar**, Senior Embedded Systems (IoT) Engineer · Vienna, Austria
 
-Embedded C/C++ · Embedded Linux · RTOS and bare-metal (ARM Cortex-M) · IoT · Hardware design
+Embedded C/C++ · Embedded Linux · Bare-metal (ARM Cortex-M) · IoT · Hardware design
 
+- Email: pouryaafshintabar@gmail.com
 - GitHub: [PATEmbedded](https://github.com/PATEmbedded)
 - LinkedIn: [pourya-afshintabar](https://www.linkedin.com/in/pourya-afshintabar/)
