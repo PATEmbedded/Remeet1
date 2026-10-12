@@ -41,6 +41,12 @@ I was the hands-on engineer behind Remeet 1, responsible for the hardware design
 Remeet 1 turns any meeting room into a managed space. The device sits beside the door and shows who is using the room now and what is coming next. People book rooms from a mobile app or the web, and the same system unlocks the door, so no keys or phone calls are needed to coordinate a meeting.
 
 <p align="center">
+  <img src="docs/images/remeet-1-touchscreen-demo.jpg" alt="Pourya Afshintabar demonstrating the Remeet 1 touchscreen beside a meeting-room door" width="360">
+  <br>
+  <em>Demo: me using the Remeet 1 touchscreen beside a meeting-room door, with the Remeet mobile app open on my phone.</em>
+</p>
+
+<p align="center">
   <img src="docs/images/remeet-mobile-app.jpg" alt="Remeet mobile app showing spaces and devices" width="520">
 </p>
 
