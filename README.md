@@ -19,7 +19,7 @@ I was the hands-on engineer behind Remeet 1, responsible for the hardware design
 
 | Area | What I did |
 |------|------------|
-| **Hardware design** | Designed the Remeet 1 PCB and electronics, sized for a 10.1-inch display, wall and door mounting, and a concealed-wiring enclosure |
+| **Hardware design** | Designed the Remeet 1 PCB and electronics, sized for a 10.1-inch display, wall or partition mounting, and a concealed-wiring enclosure |
 | **Platform customization** | Customized the Remeet 1 product platform for meeting management, covering room booking, schedules, access control, and on-device room information |
 | **Device-driver layer** | Created a **C++ / C / Bash device-driver abstraction layer** that bridges application developers with low-level Linux services, **Device Tree**, and **U-Boot** |
 | **Embedded software** | Engineered the device software in C/C++ on embedded Linux, from boot configuration to application features |
