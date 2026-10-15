@@ -7,22 +7,23 @@
 
 > **Remeet 1** is an IoT meeting-room panel mounted beside doors. It shows room status and schedules, unlocks the door, and is managed from mobile and web apps.
 >
-> As **Senior Embedded Systems (IoT) Engineer** at [Novaday Co.](https://novaday.ir/), I designed the hardware and engineered the embedded software for Remeet 1, from PCB design through firmware, the Embedded Linux platform, and the device-driver layer that connects application code to the hardware. Remeet 1 is a commercial product of Novaday.
+> As **Senior Embedded Systems Engineer** at [Novaday Co.](https://novaday.ir/), I designed the hardware and engineered the embedded software for Remeet 1, from PCB design through firmware, the Embedded Linux platform, and the device-driver layer that connects application code to the hardware. Remeet 1 is a commercial product of Novaday.
 
 ---
 
 ## My Role
 
-**Senior Embedded Systems (IoT) Engineer**, [Novaday Co.](https://novaday.ir/)
+**Senior Embedded Systems Engineer**, [Novaday Co.](https://novaday.ir/)
 
-I was the hands-on engineer behind Remeet 1, responsible for the hardware design, the embedded software, and the platform work that turns the device into a meeting-management product. The product itself is owned by Novaday Co.
+I was the hands-on engineer behind Remeet 1, responsible for the hardware design, the embedded software, the production line, and the platform work that turns the device into a meeting-management product. The product itself is owned by Novaday Co.
 
 | Area | What I did |
 |------|------------|
 | **Hardware design** | Designed the Remeet 1 PCB and electronics, sized for a 10.1-inch display, wall and door mounting, and a concealed-wiring enclosure |
-| **Platform customization** | Customized the Remeet1 product platform for meeting management, covering room booking, schedules, access control, and on-device room information |
+| **Platform customization** | Customized the Remeet 1 product platform for meeting management, covering room booking, schedules, access control, and on-device room information |
 | **Device-driver layer** | Created a **C++ / C / Bash device-driver abstraction layer** that bridges application developers with low-level Linux services, **Device Tree**, and **U-Boot** |
 | **Embedded software** | Engineered the device software in C/C++ on embedded Linux, from boot configuration to application features |
+| **Production** | Led the production line from prototype to field deployment, including assembly, installation, and field support |
 
 **Skills**
 
@@ -154,7 +155,7 @@ The public materials in this repository (README, brochure, and images) are the o
 
 ## Contact
 
-**Pourya Afshintabar**, Senior Embedded Systems (IoT) Engineer · Vienna, Austria
+**Pourya Afshintabar**, Senior Embedded Systems Engineer · Vienna, Austria
 
 Embedded C/C++ · Embedded Linux · Bare-metal (ARM Cortex-M) · IoT · Hardware design
 
