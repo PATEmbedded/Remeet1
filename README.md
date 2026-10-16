@@ -159,6 +159,6 @@ The public materials in this repository (README, brochure, and images) are the o
 
 Embedded C/C++ · Embedded Linux · Bare-metal (ARM Cortex-M) · IoT · Hardware design
 
-- Email: pouryaafshintabar@gmail.com
+- Email: pat.embedded@gmail.com
 - GitHub: [PATEmbedded](https://github.com/PATEmbedded)
 - LinkedIn: [pourya-afshintabar](https://www.linkedin.com/in/pourya-afshintabar/)
